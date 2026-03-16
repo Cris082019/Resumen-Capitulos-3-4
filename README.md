@@ -46,7 +46,7 @@ Es una conexión inalámbrica de corto alcance y bajo consumo de energía.
 🔵***2. Tecnologías de Red en el Hogar***<br>
 ➖**Frecuencias:** Las redes inalámbricas operan principalmente en las bandas de 2.4 GHz y 5 GHz. Mientras que Bluetooth usa la banda de 2.4 GHz, las redes Wi-Fi (estándar 802.11) tienen mayor potencia y alcance.<br>
 ➖**Conexión por Cable (Ethernet):** Sigue siendo fundamental para un rendimiento óptimo. El cable más común es el UTP Categoría 5e, que utiliza pares trenzados para reducir interferencias eléctricas.<br>
-
+<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20210820.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20210908.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20210952.png"   width="270" height="136">
 
 🔵***3. Estándares Inalámbricos (IEEE 802.11)***<br>
 Para que el Wi-Fi funcione correctamente, se deben configurar varios parámetros en el router:
