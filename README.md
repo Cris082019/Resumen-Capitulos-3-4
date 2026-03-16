@@ -1,5 +1,6 @@
 # ***Resumen-Capitulos-3-4***
 
+
 🔴**Redes Inalámbricas y Celulares**<br>
 Los dispositivos móviles utilizan diferentes tipos de ondas de radio para comunicarse:
 
@@ -11,3 +12,4 @@ Los dispositivos móviles utilizan diferentes tipos de ondas de radio para comun
 
 🟢**NFC (Near Field Communication):** Tecnología para intercambio de datos a muy corta distancia (pocos centímetros), ideal para pagos o emparejamientos rápidos.
 
+<img src="GSM.png">
