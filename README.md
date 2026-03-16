@@ -1,4 +1,4 @@
-### ***Resumen-Capitulos-3-4***
+# ***Resumen-Capitulos-3-4***
 
 🔴**Redes Inalámbricas y Celulares**<br>
 Los dispositivos móviles utilizan diferentes tipos de ondas de radio para comunicarse:
