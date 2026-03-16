@@ -11,5 +11,6 @@ Los dispositivos móviles utilizan diferentes tipos de ondas de radio para comun
 🟢**Wi-Fi:** Permite la conexión a redes locales e internet mediante transmisores internos. Estas redes pueden ser privadas o públicas (puntos de acceso/hotspots).
 
 🟢**NFC (Near Field Communication):** Tecnología para intercambio de datos a muy corta distancia (pocos centímetros), ideal para pagos o emparejamientos rápidos.
-<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/GSM.png">
+
+<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/GSM.png"> 
 
