@@ -41,7 +41,7 @@ Es una conexión inalámbrica de corto alcance y bajo consumo de energía.
 ➖**Estructura:** Una red doméstica es una pequeña LAN (Red de Área Local). Suele conectar la red privada del hogar con la red pública del proveedor de internet a través de un router.<br>
 ➖**El Router:** Es el núcleo de la red. Suele ser "integrado", lo que significa que ofrece conexiones tanto por cable (puertos Ethernet) como inalámbricas (antena Wi-Fi).<br>
 ➖**Ventajas del Wi-Fi:** Ofrece movilidad, escalabilidad, flexibilidad y ahorro en costos y tiempo de instalación en comparación con el cableado.<br>
-
+<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20204700.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20204728.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20210429.png"   width="270" height="136">
 
 🔵***2. Tecnologías de Red en el Hogar***<br>
 ➖**Frecuencias:** Las redes inalámbricas operan principalmente en las bandas de 2.4 GHz y 5 GHz. Mientras que Bluetooth usa la banda de 2.4 GHz, las redes Wi-Fi (estándar 802.11) tienen mayor potencia y alcance.<br>
