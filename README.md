@@ -64,5 +64,5 @@ Para que el Wi-Fi funcione correctamente, se deben configurar varios parámetros
 *Seguridad y Acceso:* <br>
 ➖**Filtrado MAC:** Permite restringir el acceso solo a dispositivos específicos identificados por su dirección física (MAC).<br>
 ➖**Acceso de Invitados:** Crea una red separada con un SSID especial que solo da acceso a internet, protegiendo los archivos y dispositivos de la red principal.<br>
-➖**Consejo de Seguridad:** No se recomienda incluir la marca o modelo del router en el nombre del SSID, ya que esto podría revelar vulnerabilidades a posibles atacantes.
-
+➖**Consejo de Seguridad:** No se recomienda incluir la marca o modelo del router en el nombre del SSID, ya que esto podría revelar vulnerabilidades a posibles atacantes.<br>
+<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20211907.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20211935.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20212043.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20212054.png"   width="270" height="136">
