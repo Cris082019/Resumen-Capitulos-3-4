@@ -12,5 +12,5 @@ Los dispositivos móviles utilizan diferentes tipos de ondas de radio para comun
 
 🟢**NFC (Near Field Communication):** Tecnología para intercambio de datos a muy corta distancia (pocos centímetros), ideal para pagos o emparejamientos rápidos.
 
-<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/GSM.png"> 
+<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/GSM.png"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20201825.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20201901.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20201937.png"   width="270" height="136">
 
